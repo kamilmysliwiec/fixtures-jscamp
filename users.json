@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "email": "test@nestjs.com",
+    "password": "test",
+    "organizationId": null
+  },
+  {
+    "id": 2,
+    "email": "user@nestjs.com",
+    "password": "user",
+    "organizationId": null
+  },
+  {
+    "id": 3,
+    "email": "admin@nestjs.com",
+    "password": "admin",
+    "organizationId": null
+  }
+]
