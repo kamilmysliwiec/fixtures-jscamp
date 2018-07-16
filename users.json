@@ -3,18 +3,21 @@
     "id": 1,
     "email": "test@nestjs.com",
     "password": "test",
-    "organizationId": null
+    "roleId": 1,
+    "organizationId": 3
   },
   {
     "id": 2,
     "email": "user@nestjs.com",
     "password": "user",
-    "organizationId": null
+    "roleId": 1,
+    "organizationId": 2
   },
   {
     "id": 3,
     "email": "admin@nestjs.com",
     "password": "admin",
-    "organizationId": null
+    "roleId": 2,
+    "organizationId": 1
   }
 ]
